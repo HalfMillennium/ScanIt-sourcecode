@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/27.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e616b95568c5f38322799069485eb73f68ffec0a">
+        <dex dex="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/pre-dexed/fdroid/debug/com.android.support-animated-vector-drawable-27.0.0_85c4b575c11abaee94a83363c52c8434a6b59948.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.99.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6a067d699502463d14884dbab10ba303db92dd16">
+        <dex dex="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/pre-dexed/gplay/release/com.facebook.android-audience-network-sdk-4.99.1_68adccbad7dd153e5ae071ff7b155462dcb933b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/exploded-aar/com.android.support/support-fragment/27.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9e3177fae918dbe4e58eccf197cfb56bfaf59803">
+        <dex dex="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/pre-dexed/fdroid/debug/com.android.support-support-fragment-27.0.0_61c1eeff44920a19f697ebfcf3b25eb7d6f315df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/pre-dexed/fdroid/debug/android.arch.lifecycle-runtime-1.0.0_0f4964222f1948a7f09855e31c3899b3e3a23151.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/pre-dexed/gplay/release/com.google.android.gms-play-services-ads-10.0.1_489b0010e9f224a9308ec804974402c8a6da56c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-dash/r2.4.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="20fa9888472a66e49eca47436f5706225947ee42">
+        <dex dex="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/pre-dexed/gplay/release/com.google.android.exoplayer-exoplayer-dash-r2.4.2_fa1625d1d39e743e0eeeadb7225e322c2401a408.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.1.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="182370a4a0bba7903c6ff2cb7b6ac21ca4a4bf89">
+        <dex dex="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/pre-dexed/fdroid/debug/com.android.support.constraint-constraint-layout-1.1.2_03d1f11a54a8aba8eb9dcd64e75ebd70fdb20348.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/pre-dexed/gplay/release/com.google.android.gms-play-services-gass-10.0.1_38f99dddf417ebbcde3d41fc3096bb50226915ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/pre-dexed/fdroid/debug/common-1.0.0_f3c0b4e0275320e9e473be6bbf79d5d138e338de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/27.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0e97fa8abc1a1a90087ce8b093d11f1a8e0f1214">
+        <dex dex="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/pre-dexed/fdroid/debug/com.android.support-support-vector-drawable-27.0.0_91118ee093a2952fa9d0501ed0b8e16074966dc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="89172db744f643c670ee7f9620b39ed460bc23fb">
+        <dex dex="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/pre-dexed/fdroid/debug/com.android.support-support-compat-27.0.0_a7cb098165bca641509ae6052eda785bd3787637.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/exploded-aar/us.feras.mdv/markdownview/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a607df9d5b048794ba6726f0643bda82e3a142c4">
+        <dex dex="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/pre-dexed/fdroid/debug/us.feras.mdv-markdownview-1.1.0_6a4e4612a14eb2bcedfbb8c1bb128db3b30fe926.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/exploded-aar/com.android.support/transition/27.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4acee87c1f3801ff4162b2f8d5b3cf999007ee6f">
+        <dex dex="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/pre-dexed/fdroid/debug/com.android.support-transition-27.0.0_6bb234ae3664f6bc6d2529b50aa43d0599babd00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/exploded-aar/com.github.ctodobom/FabToolbar/3c5f0e0ff1b6d5089e20b7da7157a604075ae943/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f2ea71ca80c9e89462d27b9a2ea11257b9cfbb41">
+        <dex dex="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/pre-dexed/fdroid/debug/com.github.ctodobom-FabToolbar-3c5f0e0ff1b6d5089e20b7da7157a604075ae943_6d5d1f808b5e9eb45062d9c3ad92cfceb1c4e3cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/exploded-aar/com.android.support/support-v4/27.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e7404d217654969776b5fa566df9a7f2c1b1c337">
+        <dex dex="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/pre-dexed/fdroid/debug/com.android.support-support-v4-27.0.0_e45f28e1edebf58b7a92502dce9572dc7e5d3915.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7103318ab8a16fe56a325b7554b088f4d49e4700">
+        <dex dex="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/pre-dexed/fdroid/debug/com.android.support-appcompat-v7-27.0.0_205bfa68a52b15e0d7e88ea916b2ed2e63aeaa12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.0/a7782471b2a0de8fec071b8094a8aaf61c46ab70/support-annotations-27.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a7782471b2a0de8fec071b8094a8aaf61c46ab70">
+        <dex dex="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/pre-dexed/fdroid/debug/support-annotations-27.0.0_523193377341d1ce0ffd274d8889d7e34cac748e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.github.nostra13/Android-Universal-Image-Loader/v1.9.5/81ff3766b621c7073b34ed0601867bd035d50b4f/Android-Universal-Image-Loader-v1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="81ff3766b621c7073b34ed0601867bd035d50b4f">
+        <dex dex="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/pre-dexed/fdroid/debug/Android-Universal-Image-Loader-v1.9.5_bd52fa7f445744459c2089b698471253c71c7223.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.0.1/9ebf6cd580d67601fbf88fd007aab4703b19e4c2/core-3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9ebf6cd580d67601fbf88fd007aab4703b19e4c2">
+        <dex dex="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/pre-dexed/fdroid/debug/core-3.0.1_4b5d0ee61276ed253e17964fd94bfa5d694f1e9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/27.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="cf7abe2a43ffb1d475e94d0877ef3abb95fff56e">
+        <dex dex="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/pre-dexed/fdroid/debug/com.android.support-support-core-utils-27.0.0_8b95d005013500397a74213d48a7e602d3b1cbf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/27.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f73f6af8b32299bb364178188dcfe50379ed0da7">
+        <dex dex="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/pre-dexed/fdroid/debug/com.android.support-support-media-compat-27.0.0_eafe9e3ec6d8fc9f84740201221fdcc2a5244e21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.1.2/bfc967828daffc35ba01c9ee204d98b664930a0f/constraint-layout-solver-1.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bfc967828daffc35ba01c9ee204d98b664930a0f">
+        <dex dex="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/pre-dexed/fdroid/debug/constraint-layout-solver-1.1.2_ddf7a5f9bd19a6b643c8785076da4d3bac640946.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/27.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="62c85d61c1ecd732dfe0c57e050d179ed85588bf">
+        <dex dex="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/pre-dexed/fdroid/debug/com.android.support-recyclerview-v7-27.0.0_4641993fa98eeab8439ade0a04e74d82684df3b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/pre-dexed/gplay/release/com.google.android.gms-play-services-basement-10.0.1_1508407cc2954afeb72288a17b5f9a88dcfdcb50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/27.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="62e71cc187cfcb1ba382b05c5f39f5d903973656">
+        <dex dex="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/pre-dexed/fdroid/debug/com.android.support-support-core-ui-27.0.0_236318b1c5dcb4d6c14b28a738a54ce963122f90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/pre-dexed/gplay/release/com.google.android.gms-play-services-clearcut-10.0.1_f7ea7093041a45c093c70ecc0bf13c3c83308797.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-core/r2.4.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a952c11383ba123aa6d78b28a2fcccf8d357f503">
+        <dex dex="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/pre-dexed/gplay/release/com.google.android.exoplayer-exoplayer-core-r2.4.2_fc13359172a85cf3e6221525754ec852edda9abc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/pre-dexed/gplay/release/com.google.android.gms-play-services-ads-lite-10.0.1_ee76a574de2e6ec09b55c05daa1b8e1f09719b9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/exploded-aar/com.github.ctodobom/OpenCV-3.1.0-Android/9e00ee4218ca0c9e60a905c9f09bf499f9dc5115/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="91eeec0563d76a06907332d76473405f721afaa2">
+        <dex dex="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/pre-dexed/fdroid/debug/com.github.ctodobom-OpenCV-3.1.0-Android-9e00ee4218ca0c9e60a905c9f09bf499f9dc5115_10436e636b356ef03741ebc5692677a81d8179c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/org.markdownj/markdownj-core/0.4/7dab17c3d4d492a2b776d25eb50e2320995de24c/markdownj-core-0.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7dab17c3d4d492a2b776d25eb50e2320995de24c">
+        <dex dex="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/pre-dexed/fdroid/debug/markdownj-core-0.4_a48a35858c247773048768f529f79fe8f445f506.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/exploded-aar/org.piwik.sdk/piwik-sdk/0.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b3f6a63027e779d794f154c83087bef0a24e7af6">
+        <dex dex="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/pre-dexed/fdroid/debug/org.piwik.sdk-piwik-sdk-0.0.4_9b3a23e3a2c6183e01335cdb3c98d2ecc3eeae7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/pre-dexed/fdroid/debug/common-1.0.0_2e0e7fe83226098578be71d4d57714492b862739.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/pre-dexed/gplay/release/com.google.android.gms-play-services-tasks-10.0.1_b196f59bfafffb112df65393df3295a571408927.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/pre-dexed/gplay/release/com.google.android.gms-play-services-base-10.0.1_e28b1d8c05a53a7c82d78b4bdfb99b9afb3b2227.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/exploded-aar/com.android.support/design/27.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b8dd77dd9462bc957cbc901cbe9d6c06047f8216">
+        <dex dex="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/pre-dexed/fdroid/debug/com.android.support-design-27.0.0_5a0f47f3b92dc801f78de217d91ba2bbf2c2e536.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/exploded-aar/com.github.ctodobom/drag-select-recyclerview/0.3.4.ctodobom.sections/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8e4243e40cba42a0a37a3af230384ae00f1a8dc2">
+        <dex dex="/Users/apple/Documents/GitHub/OpenNoteScanner/app/build/intermediates/pre-dexed/fdroid/debug/com.github.ctodobom-drag-select-recyclerview-0.3.4.ctodobom.sections_09d9e61a195d236afaec18a47e59e38ad8a06773.jar" />
+    </item>
+
+</items>
